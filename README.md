@@ -2,23 +2,20 @@
 
 ## Overview
 
-TODO: Write a project description
+In this project, we added an Evil Circle to the given bouncing ball demo.
+The Evil Circles purpose is to move around via user input, eat the 
+bouncing balls, and keep track of how many balls are on screen. When a 
+ball is eaten by the Evil Circle, it disappears from the screen and the 
+count of balls decreases.
+
+To view the demo, make sure the live preview extension is installed and
+working, before navigating to the index.html file and clicking the 
+"show preview" button in the right corner. From there, you can press the
+three lines in the right corner and select "open in browser" to view the 
+demo in browser. 
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+* Help with adding to HTML: https://stackoverflow.com/questions/41764061/adding-text-to-an-existing-text-element-in-javascript-via-dom
+* Help with String concatenation: https://www.w3schools.com/js/js_numbers.asp
+* Help with updating text of HTML using javascript: https://stackoverflow.com/questions/1358810/how-do-i-change-the-text-of-an-element-using-javascript

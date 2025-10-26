@@ -29,7 +29,7 @@ class Shape {
 
 class EvilCircle extends Shape {
   constructor(x, y) {
-    super(x, y, 20, 20);
+    super(x, y, 30, 30);
     this.color = 'rgba(255, 255, 255, 1)';
     this.size = 10;
     window.addEventListener("keydown", (e) => {
